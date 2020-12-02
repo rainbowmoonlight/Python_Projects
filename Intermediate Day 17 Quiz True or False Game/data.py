@@ -1,3 +1,6 @@
+# From OPEN TRIVIA DATABASE API
+# https://opentdb.com/api_config.php
+
 question_data = [
     {
         "category": "Science: Computers",
@@ -100,3 +103,4 @@ question_data = [
         ]
     }
 ]
+
